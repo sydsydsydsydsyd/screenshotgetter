@@ -1,4 +1,5 @@
-#!/bin/python3
+#!/usr/local/bin/python3
+
 
 from os import system
 from random import randint
